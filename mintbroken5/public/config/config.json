@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6f2916af85b42D0eDDa3FB9295B747530387F4E2",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6D1B123942B2bd5Ba8687eb701D01c4632b41247",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "OmniWaifu",
+  "SYMBOL": "OYFU",
+  "MAX_SUPPLY": 80,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 445000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/omniwaifu",
+  "SHOW_BACKGROUND": true
+}
